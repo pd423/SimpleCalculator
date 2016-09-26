@@ -7,7 +7,7 @@ This is a demo (Test) calculator android app.
 
 This calculator provide basic integer calculate function.
 
-![screenshot_01](./document_files/app_screenshot_01.png =250x)
+![screenshot_01](./document_files/app_screenshot_01.png | width=100)
 
 Following is the policy and limit for this calculator. Can't calculate more than 2 paramters. For instance, this calculator only consider the case for X + Y. Following is the example.
 
